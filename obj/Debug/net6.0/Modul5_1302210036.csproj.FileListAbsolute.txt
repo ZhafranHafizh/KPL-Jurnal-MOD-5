@@ -1,0 +1,15 @@
+E:\KPL_1302210036\Modul5_1302210036\bin\Debug\net6.0\Modul5_1302210036.exe
+E:\KPL_1302210036\Modul5_1302210036\bin\Debug\net6.0\Modul5_1302210036.deps.json
+E:\KPL_1302210036\Modul5_1302210036\bin\Debug\net6.0\Modul5_1302210036.runtimeconfig.json
+E:\KPL_1302210036\Modul5_1302210036\bin\Debug\net6.0\Modul5_1302210036.dll
+E:\KPL_1302210036\Modul5_1302210036\bin\Debug\net6.0\Modul5_1302210036.pdb
+E:\KPL_1302210036\Modul5_1302210036\obj\Debug\net6.0\Modul5_1302210036.csproj.AssemblyReference.cache
+E:\KPL_1302210036\Modul5_1302210036\obj\Debug\net6.0\Modul5_1302210036.GeneratedMSBuildEditorConfig.editorconfig
+E:\KPL_1302210036\Modul5_1302210036\obj\Debug\net6.0\Modul5_1302210036.AssemblyInfoInputs.cache
+E:\KPL_1302210036\Modul5_1302210036\obj\Debug\net6.0\Modul5_1302210036.AssemblyInfo.cs
+E:\KPL_1302210036\Modul5_1302210036\obj\Debug\net6.0\Modul5_1302210036.csproj.CoreCompileInputs.cache
+E:\KPL_1302210036\Modul5_1302210036\obj\Debug\net6.0\Modul5_1302210036.dll
+E:\KPL_1302210036\Modul5_1302210036\obj\Debug\net6.0\refint\Modul5_1302210036.dll
+E:\KPL_1302210036\Modul5_1302210036\obj\Debug\net6.0\Modul5_1302210036.pdb
+E:\KPL_1302210036\Modul5_1302210036\obj\Debug\net6.0\Modul5_1302210036.genruntimeconfig.cache
+E:\KPL_1302210036\Modul5_1302210036\obj\Debug\net6.0\ref\Modul5_1302210036.dll
